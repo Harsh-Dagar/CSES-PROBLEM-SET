@@ -36,5 +36,6 @@ public class MinimizingCoins {
         }
 
         System.out.println(findMinCoins(coins, x));
+        sc.close();
     }
 }
